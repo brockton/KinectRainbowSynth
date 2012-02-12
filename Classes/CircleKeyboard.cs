@@ -79,7 +79,7 @@ namespace KinectWpfSynth
 
             diameter = playfield.ActualWidth < playfield.ActualHeight ? playfield.ActualWidth : playfield.ActualHeight;
             //make circle smaller test
-            diameter = diameter - 100;
+            //diameter = diameter - 100;
 
             centreX = playfield.ActualWidth/2;
             centreY = playfield.ActualHeight/2;
