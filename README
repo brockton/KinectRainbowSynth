@@ -1,0 +1,10 @@
+On-screen keyboard for Kinect. Built using MS Kinect SDK in C# and WPF. 
+Audio for piano is provided using NAudio (http://naudio.codeplex.com/) with 
+samples from http://audio.ibeat.org/?ccm=/media/files/DaDeMo/469. 
+Organ uses a software synthesizer using the Sanford C# Synth Toolkit from 
+http://www.codeproject.com/KB/audio-video/synthtoolkitparti.aspx . 
+This is an initial version to bring test some ideas. 
+Includes voice recognition to change between organ and piano. 
+Unlike other synths I've seen it does not require any additional software 
+or hardware as it is self-contained.
+Codebase is now available at https://github.com/grazulis/KinectRainbowSynth 
